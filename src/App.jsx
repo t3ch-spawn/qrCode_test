@@ -21,7 +21,7 @@ function App() {
         Download Document
       </h1>
       <a
-        href="/Programme.docx"
+        href="/Prof Baiyeroju Valedictory programme.pdf"
         target="_blank"
         className="bg-black rounded-[8px] text-[16px] px-[30px] py-[8px] text-white download-btn"
         aria-label="download document"
