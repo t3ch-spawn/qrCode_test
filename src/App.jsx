@@ -17,8 +17,8 @@ function App() {
   });
   return (
     <main className="flex flex-col justify-center items-center min-h-[100vh] gap-[20px]">
-      <h1 className="text-[32px] leading-[100%] text-center">
-        Download Document
+      <h1 className="text-[32px] leading-[100%] text-center w-[95%] max-w-[400px] ">
+        Download Programme Order of Events
       </h1>
       <a
         href="/Prof Baiyeroju Valedictory programme.pdf"
